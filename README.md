@@ -2,7 +2,7 @@
 
 Statistisk analyse af helbredspåvirkninger fra benzin/olie-lugt i Amager-området, baseret på spørgeskemadata indsamlet fra beboere i de berørte områder.
 
-Appen er bygget i Python/Streamlit og hostet gratis via [Streamlit Community Cloud]([https://streamlit.io/cloud](https://gasbenzinlugt---geografi-og-symptomer-gjdx894vypyyqqdt2fawy8.streamlit.app/)).
+Appen er bygget i Python/Streamlit og hostet gratis via [Streamlit Community Cloud](https://gasbenzinlugt---geografi-og-symptomer-gjdx894vypyyqqdt2fawy8.streamlit.app/).
 
 ---
 
